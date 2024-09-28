@@ -1,0 +1,9 @@
+# User submissions will be appended here
+# Format: Name: [Name], Age: [Age], Bio: [Short Bio]
+
+Name: John Doe, Age: 20, Bio: Computer Science major at XYZ University.
+Name: Jane Smith, Age: 22, Bio: Aspiring data scientist with a passion for AI.
+Name: Alice Johnson, Age: 19, Bio: Freshman interested in machine learning and robotics.
+Name: Bob Brown, Age: 21, Bio: Works part-time as a tutor while studying Mathematics.
+Name: Charlie Davis, Age: 23, Bio: Senior studying software engineering with internship experience.
+Name: Emily Wilson, Age: 18, Bio: High school student eager to learn about programming.

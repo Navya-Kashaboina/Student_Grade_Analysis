@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Display Users</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Submitted Users</h1>
+        <ul>
+        {% for user in users %}
+            <li>{{ user.name }} (Age: {{ user.age }}) - Bio: {{ user.bio }}</li>
+        {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>
